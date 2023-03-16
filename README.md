@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/smadi0x01/JustBatchThem"><img src="https://j.top4top.io/p_2595j06r51.gif" alt="run.logo"></a>
+  <a href="https://github.com/smadi0x86/JustBatchThem"><img src="https://j.top4top.io/p_2595j06r51.gif" alt="run.logo"></a>
   <br>
   Welcome to JustBatchThem
   <br>
